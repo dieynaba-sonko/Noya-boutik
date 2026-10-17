@@ -8,4 +8,11 @@
 @theme {
     --font-sans: 'Instrument Sans', ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
         'Segoe UI Symbol', 'Noto Color Emoji';
+
+    /* Couleurs de Noya-boutik (valeurs approximatives, tirées du logo) */
+    --color-cream: #fbf1de;        /* fond crème */
+    --color-cream-dark: #f3e3c3;   /* crème plus foncé, pour les cartes ou les bordures */
+    --color-gold: #c8963e;         /* or principal */
+    --color-gold-dark: #9a6f1e;    /* or foncé, pour les textes et les boutons */
+    --color-ink: #1a1410;          /* noir chaud, pour les textes */
 }
